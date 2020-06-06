@@ -1,6 +1,9 @@
 # Ecoleta
-![](uploads/logo.jpg)
-#### Helping you to find your closest recycling point! 
+![](uploads/Capa.png)
+<p align="center">
+  <strong>Helping you to find your closest recycling point!</strong>
+</p>
+ 
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/languages-4-informational">
@@ -11,6 +14,27 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
+
+## Screenshots:
+
+#### The __web__ side of the project allows recycling points to register their info to allow everyone near them to know what type of items that they accept. 
+##### Every recycling point will register these informations:
+  * An image of their point.
+  * Name, Email, Whatsapp.
+  * Coordinates of their position.
+  * Address
+  * Which items they recycle.
+  
+  <p align="center">
+  <img alt="Home" width="500px" src="https://github.com/twistershark/Ecoleta/blob/master/uploads/Web/Home.png">
+  </p>
+  <p align="center">
+  <img alt="Register" height="500px" src="https://github.com/twistershark/Ecoleta/blob/master/uploads/Web/Cadastro.png">
+  </p>
+  
+ #### The mobile side of the project shows the closest points to the user, based on their position.
+ <p align="center">
+ <img alt="Home" width="200px" src="https://github.com/twistershark/Ecoleta/blob/master/uploads/Mobile/In%C3%ADcio.png">    <img alt="Home" width="200px" src="https://github.com/twistershark/Ecoleta/blob/master/uploads/Mobile/Home.png">       <img alt="Home" width="200px" src="https://github.com/twistershark/Ecoleta/blob/master/uploads/Mobile/Detalhes.png">
 </p>
 
 ## Getting Started
